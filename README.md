@@ -1,4 +1,6 @@
 # Subdomains Bruteforce
-Programa feito em Python que faz o escaneamento de possíveis Subdomínios de um site!
+Python script that scans all the subdomains of a website!
 
-OBS: Para fins de aprendizado e conhecimento.
+**OBS: Para fins de aprendizado e conhecimento.**
+
+**OBS: Educational Purposes**
